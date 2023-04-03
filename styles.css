@@ -15,7 +15,7 @@ img {
 	justify-content : space-around;
 	margin : 5px;
 }
-.pictorial {
+.pictorial-news-section {
 	display : grid;
 	align-items : center;
 	justify-items : center;
@@ -35,7 +35,7 @@ img {
 	align-items : center;
 	border-radius : 20px;
 }
-.latest {
+.latest-news-section {
 	width : 25%;
 	padding : 10px;
 	background-color : white; 
